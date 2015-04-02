@@ -8,6 +8,8 @@ Overview
 
 The delegate pattern is very common in many Obj-C libraries, such as UIKit. However sometimes you want the ability to have more than one object receive delegate callbacks. FSQMessageForwarder acts as proxy delegate object, forwarding messages it receives to other objects.
 
+Note: A test project is included but it is used for build testing only - an example application is currently not included in this repository.
+
 Setup
 =====
 

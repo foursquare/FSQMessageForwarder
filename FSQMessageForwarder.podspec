@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name      = 'FSQMessageForwarder'
   s.version   = '1.0.0'
-  s.platform  = :ios
+  s.platform  = :ios, "7.0"
   s.summary   = 'An Obj-C message forwarder class.'
   s.homepage  = 'https://github.com/foursquare/FSQMessageForwarder'
   s.license   = { :type => 'Apache', :file => 'LICENSE.txt' }
