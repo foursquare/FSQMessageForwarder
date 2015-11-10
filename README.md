@@ -1,6 +1,8 @@
 FSQMessageForwarder
 ===============
 
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+
 An Obj-C message forwarder class, for when you don't have access to the source of the sending object.
 
 Overview
