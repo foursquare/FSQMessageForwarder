@@ -4,7 +4,7 @@
 //  Copyright (c) 2015 Foursquare. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+@import UIKit;
 
 /**
  You can assign an instance of this class to receive any kind of message, 
