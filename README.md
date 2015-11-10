@@ -13,7 +13,7 @@ Note: A test project is included but it is used for build testing only - an exam
 Setup
 =====
 
-FSQMessageForwarder is only two files with no external dependencies, so it should be quick and easy to add to your app. Simply download the files and copy them into your project. Alternatively you can use CocoaPods or git submodules to link your repo against this one for easy updating when future versions are released.
+You can include FSQMessageForwarder via Carthage (by adding `github "foursquare/FSQMessageForwarder"` to your Cartfile) or CocoaPods. Alternatively you can simply copy the h and m files for the class to your project manually.
 
 Using Message Forwarder
 =======================
