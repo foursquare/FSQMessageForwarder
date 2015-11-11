@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:FSQMessageForwarderTest.xcodeproj">
+      location = "self:FSQMessageForwarder.xcodeproj">
    </FileRef>
 </Workspace>
