@@ -36,4 +36,4 @@ If a forwarded message has a return value, the return value of the first child t
 Contributors
 ============
 
-FSQMessageForwarder was initially developed by Foursquare Labs for internal use. It was originally written and is currently maintained by Brian Dorfman ([@bdorfman](https://twitter.com/bdorfman)).
+FSQMessageForwarder was initially developed by Foursquare Labs for internal use. It was originally written by Brian Dorfman ([@bdorfman](https://twitter.com/bdorfman)) and is currently maintained Sam Grossberg ([@samgro](https://github.com/samgro)).
